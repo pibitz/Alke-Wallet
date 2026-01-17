@@ -185,7 +185,7 @@ Las contribuciones son bienvenidas. Para cambios importantes:
 
 ## 👥 Autores
 
-- **Tu Nombre** - *Desarrollo Inicial* - [@pibitz](https://github.com/pibitz)
+- Giovanni Henríquez - *Desarrollo Inicial* - [@pibitz](https://github.com/pibitz)
 
 ## 📄 Licencia
 
